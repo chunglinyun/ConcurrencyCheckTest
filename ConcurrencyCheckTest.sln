@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyCheckTest", "ConcurrencyCheckTest\ConcurrencyCheckTest.csproj", "{6551F1AC-FCBA-47ED-83E2-E46CFA857E8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConcurrencyCheck", "TestConcurrencyCheck\TestConcurrencyCheck.csproj", "{A572EFD8-3C8A-43B7-A2C0-6453AD008C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6551F1AC-FCBA-47ED-83E2-E46CFA857E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6551F1AC-FCBA-47ED-83E2-E46CFA857E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6551F1AC-FCBA-47ED-83E2-E46CFA857E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A572EFD8-3C8A-43B7-A2C0-6453AD008C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A572EFD8-3C8A-43B7-A2C0-6453AD008C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A572EFD8-3C8A-43B7-A2C0-6453AD008C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A572EFD8-3C8A-43B7-A2C0-6453AD008C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
